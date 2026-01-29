@@ -1,0 +1,16 @@
+/* Do not change this file for this exercise.*/
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: 100px;
+}
+
+a {
+    padding: 10px;
+    display: block;
+    background-color: beige;
+    text-decoration: none;
+    color: black
+}
